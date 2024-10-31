@@ -56,5 +56,5 @@ The code generates plots for validation loss and accuracy, providing insights in
 Validation set: Average loss: 2.113802, Accuracy: 67/80 (84%)
 ```
 
-![Loss Plot](<path_to_loss_plot_placeholder>)
-![Accuracy Plot](<path_to_accuracy_plot_placeholder>)
+![Per Batch](<Validation_loss_Accuracy_per_batch.png>)
+![Accuracy and Loss Plot](<Validation_loss_Accuracy.png>)
